@@ -1,20 +1,20 @@
-# Profil Kota Semarang
+# 🏙️ Profil Kota Semarang
 
-Website statis sederhana yang menampilkan profil Kota Semarang — sejarah singkat, destinasi wisata, dan kuliner khas. Dibuat sebagai submission untuk kelas **Belajar Dasar Pemrograman Web** di Dicoding.
+Website statis yang menampilkan profil Kota Semarang — sejarah singkat, destinasi wisata, dan kuliner khas. Dibuat sebagai submission untuk kelas **Belajar Dasar Pemrograman Web** di Dicoding, sekaligus latihan menyusun struktur HTML semantik dan layout dengan Flexbox murni (tanpa framework CSS).
 
-## Fitur / Konten
+## ✨ Fitur / Konten
 
-- **Header** — judul dan tagline kota.
-- **Nav** — menu navigasi (Tentang, Wisata, Kuliner, Kontak) serta tautan ke profil Dicoding.
-- **Aside** — fakta singkat kota (provinsi, julukan, bahasa daerah, ikon kota) beserta foto.
-- **Article**
-  - Tentang Semarang — sejarah dan gambaran umum kota.
-  - Destinasi Wisata — Lawang Sewu, Kota Lama, Sam Poo Kong, Masjid Agung Jawa Tengah.
-  - Kuliner Khas — daftar makanan khas beserta penjelasan Lumpia Semarang.
-- **Footer** — informasi hak cipta.
+| Bagian                | Isi                                                                           |
+| --------------------- | ----------------------------------------------------------------------------- |
+| **Header**            | Judul dan tagline kota                                                        |
+| **Nav**               | Menu navigasi (Tentang, Wisata, Kuliner, Kontak) + tautan ke profil Dicoding  |
+| **Aside**             | Fakta singkat kota (provinsi, julukan, bahasa daerah, ikon kota) beserta foto |
+| **Article — Tentang** | Sejarah dan gambaran umum Kota Semarang                                       |
+| **Article — Wisata**  | Lawang Sewu, Kota Lama, Sam Poo Kong, Masjid Agung Jawa Tengah                |
+| **Article — Kuliner** | Daftar makanan khas beserta penjelasan Lumpia Semarang                        |
+| **Footer**            | Informasi hak cipta                                                           |
 
-## Teknologi
+## 🛠️ Teknologi
 
-- HTML5 (elemen semantik: `header`, `nav`, `main`, `article`, `aside`, `footer`)
-- CSS3 dengan **Flexbox** untuk layout (bukan float)
-- Media query untuk tampilan responsif di layar kecil
+- **HTML5** — elemen semantik (`header`, `nav`, `main`, `article`, `aside`, `footer`)
+- **CSS3** — layout dengan **Flexbox** (bukan float), custom properties, media query untuk tampilan responsif
